@@ -3,7 +3,7 @@ This is a simple note app build with kotlin. I have used room for database and i
 
 ## Functions
 1. Add a note
-2. Add an image in your note
+2. Add an image from gallery
 3. Share
 4. Delete
 
