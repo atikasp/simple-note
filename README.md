@@ -1,5 +1,5 @@
 # Simple Note App
-This is a simple note app build with kotlin. I have used room for database and implementing parcelable and viewmodel for this project.
+This is a simple note app build with kotlin. I have used ROOM for database and implementing parcelable and viewmodel for this project.
 
 ## Functions
 1. Add a note
