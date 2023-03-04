@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notes">Notes</string>
+    <string name="title">Title</string>
+    <string name="type_something">Type something...</string>
+    <string name="share">Share</string>
+    <string name="add_an_image">Add an image</string>
+    <string name="delete">Delete</string>
+</resources>
